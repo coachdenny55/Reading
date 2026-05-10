@@ -53,6 +53,3 @@ A research-backed RSVP (Rapid Serial Visual Presentation) speed reader for deskt
 
 Works in all modern browsers (Chrome, Safari, Firefox, Edge). Speech synthesis available on all platforms but sounds best on macOS (Samantha, Alex) and Windows (Zira, David).
 
-## License
-
-MIT — use, modify, share freely.
